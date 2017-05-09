@@ -1,0 +1,13 @@
+Package: POE5Rdata
+Type: Package
+Title: R Data Sets for Principles of Econometrics Fifth Edition
+Version: 0.1.0
+Date: 2017-05-15
+Author: Constantin Colonescu
+Maintainer: Constantin Colonescu <colonescuc@macewan.ca>
+Description: Provides the data sets in R format for the textbook "Principles of Econometrics" by Hill, Griffiths, and Lim, fifth edition.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 2.10)
+RoxygenNote: 6.0.1
